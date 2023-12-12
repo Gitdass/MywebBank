@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MywebBank", "MywebBank\Mywe
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{79EBB562-ED8B-4509-AE1F-E022F2C2215A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankApp", "..\..\mv\New folder\PracticeProjectsP4-master\PracticeProjectsP4-master\Section 7\BankApp\BankApp.csproj", "{CD232012-AB53-42AD-9711-7A3C2D7A7B62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBank", "..\..\mv\New folder\PracticeProjectsP4-master\PracticeProjectsP4-master\Section 7\MyBank\MyBank.csproj", "{C41474EE-D845-4F6D-AA4B-FCD70B1D122C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBank", "..\..\mv\New folder\PracticeProjectsP4-master\PracticeProjectsP4-master\Section 7\TheBank\TheBank.csproj", "{06B8A888-B212-4F26-8D78-5F22EE9C0D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{79EBB562-ED8B-4509-AE1F-E022F2C2215A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79EBB562-ED8B-4509-AE1F-E022F2C2215A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79EBB562-ED8B-4509-AE1F-E022F2C2215A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD232012-AB53-42AD-9711-7A3C2D7A7B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD232012-AB53-42AD-9711-7A3C2D7A7B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD232012-AB53-42AD-9711-7A3C2D7A7B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD232012-AB53-42AD-9711-7A3C2D7A7B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41474EE-D845-4F6D-AA4B-FCD70B1D122C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41474EE-D845-4F6D-AA4B-FCD70B1D122C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41474EE-D845-4F6D-AA4B-FCD70B1D122C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41474EE-D845-4F6D-AA4B-FCD70B1D122C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B8A888-B212-4F26-8D78-5F22EE9C0D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B8A888-B212-4F26-8D78-5F22EE9C0D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B8A888-B212-4F26-8D78-5F22EE9C0D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B8A888-B212-4F26-8D78-5F22EE9C0D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
