@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mywebbank:
+    image: ${DOCKER_REGISTRY-}mywebbank
+    build:
+      context: .
+      dockerfile: MywebBank\Dockerfile
